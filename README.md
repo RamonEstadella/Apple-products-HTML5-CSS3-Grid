@@ -1,5 +1,5 @@
 # Videojuegos
-Proyecto **Frontend** en **HTML**, **CSS** para la página web ficticia de Videojuegos.
+Proyecto **Frontend** en **HTML**, **CSS** para la página web ficticia de Productos Apple.
 
 - **Herramientas**: Visual Studio Code, Chrome Dessarollador F12, Git.
 
